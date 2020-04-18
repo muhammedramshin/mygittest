@@ -1,0 +1,22 @@
+{
+  "name": "mygittest",
+  "version": "1.0.0",
+  "description": "\"test lerning\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammedramshin/mygittest.git"
+  },
+  "author": "ramshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammedramshin/mygittest/issues"
+  },
+  "homepage": "https://github.com/muhammedramshin/mygittest#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
